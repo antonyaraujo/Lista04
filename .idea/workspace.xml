@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="663ce50e-8664-46e0-a0d8-ceff61c935f7" name="Default Changelist" comment="" />
+    <list default="true" id="663ce50e-8664-46e0-a0d8-ceff61c935f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Questao13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questao14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Questao12">
+  <component name="RunManager" selected="Python.Questao14">
     <configuration name="Questao10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lista04" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Questao6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Questao13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lista04" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questao6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questao13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Questao9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Questao14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lista04" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questao9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questao14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Questao14" />
+        <item itemvalue="Python.Questao13" />
         <item itemvalue="Python.Questao12" />
         <item itemvalue="Python.Questao11" />
         <item itemvalue="Python.Questao10" />
-        <item itemvalue="Python.Questao9" />
-        <item itemvalue="Python.Questao6" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +176,29 @@
       <option name="presentableId" value="Default" />
       <updated>1565047321628</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit Inicial">
+      <created>1565059186220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565059186220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Inicial" />
   </component>
 </project>
