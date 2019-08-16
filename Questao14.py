@@ -11,4 +11,4 @@ def somaAlgarismos(numero):
         soma = numero//100 + numero%100
     print(soma)
 
-somaAlgarismos(25)
+somaAlgarismos(27)
