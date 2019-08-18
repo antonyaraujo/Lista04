@@ -1,0 +1,31 @@
+REGISTRO DE VOLTAS DE CORRIDAS
+
+Corrida de 5 voltas - Piloto 1
+Volta 0: 10.00 segundos
+Volta 1: 20.00 segundos
+Volta 2: 15.00 segundos
+Volta 3: 12.00 segundos
+Volta 4: 13.00 segundos
+
+Corrida de 3 voltas - Piloto 1
+Volta 1: 28.00 segundos
+Volta 2: 21.00 segundos
+Volta 3: 19.00 segundos
+
+Corrida de 5 voltas - Piloto 1
+Volta 1: 2.00 segundos
+Volta 2: 1.00 segundos
+Volta 3: 3.00 segundos
+Volta 4: 4.00 segundos
+Volta 5: 1.00 segundos
+
+Corrida de 3 voltas - Piloto 1
+Volta 1: 20.00 segundos
+Volta 2: 23.00 segundos
+Volta 3: 19.00 segundos
+
+Corrida de 4 voltas - Piloto 1
+Volta 1: 1.00 segundos
+Volta 2: 2.00 segundos
+Volta 3: 3.00 segundos
+Volta 4: 4.00 segundos
