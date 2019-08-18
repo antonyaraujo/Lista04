@@ -28,9 +28,9 @@ Resolução das listas disponíveis em: https://sites.google.com/site/ap1uefs201
 <h3>Lista 5 </h3>
 
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao1.py">Questão 1</a>
-- [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao2.py">Questão 2</a>
-- [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao3.py">Questão 3</a>
-- [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao4.py">Questão 4</a>
+- [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao2.py">Questão 2</a>
+- [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao3.py">Questão 3</a>
+- [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao4.py">Questão 4</a>
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao5.py">Questão 5</a>
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao6.py">Questão 6</a>
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao7.py">Questão 7</a>
