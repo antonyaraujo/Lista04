@@ -3,7 +3,7 @@
 Resolução das listas disponíveis em: https://sites.google.com/site/ap1uefs20191/exercicios
 
 <h2> Listas Unidade II </h2>
-<h3>Lista 42/h3>
+<h3>Lista 4 </h3>
   
 [X] - <a href="3ttps://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao1.py">Questão 1</a>
 [X] - <a href="4ttps://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao2.py">Questão 2</a>
