@@ -3,8 +3,8 @@
 Resolução das listas disponíveis em: https://sites.google.com/site/ap1uefs20191/exercicios
 
 <h2> Listas Unidade II </h2>
+
 <h3>Lista 4 </h3>
-  
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao1.py">Questão 1</a>
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao2.py">Questão 2</a>
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao3.py">Questão 3</a>
@@ -23,3 +23,47 @@ Resolução das listas disponíveis em: https://sites.google.com/site/ap1uefs201
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao16.py">Questão 16</a>
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao17.py">Questão 17</a>
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao18.py">Questão 18</a>
+
+<h3>Lista 5 </h3>
+- [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao1.py">Questão 1</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao2.py">Questão 2</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao3.py">Questão 3</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao4.py">Questão 4</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao5.py">Questão 5</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao6.py">Questão 6</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao7.py">Questão 7</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao8.py">Questão 8</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao9.py">Questão 9</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao10.py">Questão 10</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao11.py">Questão 11</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao12.py">Questão 12</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao13.py">Questão 13</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao14.py">Questão 14</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao15.py">Questão 15</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao16.py">Questão 16</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao17.py">Questão 17</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao18.py">Questão 18</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao19.py">Questão 19</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao20.py">Questão 20</a>
+
+<h3>Lista 6 </h3>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao1.py">Questão 1</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao2.py">Questão 2</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao3.py">Questão 3</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao4.py">Questão 4</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao5.py">Questão 5</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao6.py">Questão 6</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao7.py">Questão 7</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao8.py">Questão 8</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao9.py">Questão 9</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao10.py">Questão 10</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao11.py">Questão 11</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao12.py">Questão 12</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao13.py">Questão 13</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao14.py">Questão 14</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao15.py">Questão 15</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao16.py">Questão 16</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao17.py">Questão 17</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao18.py">Questão 18</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao19.py">Questão 19</a>
+- [] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao20.py">Questão 20</a>
