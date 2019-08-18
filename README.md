@@ -36,7 +36,7 @@ Resolução das listas disponíveis em: https://sites.google.com/site/ap1uefs201
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao7.py">Questão 7</a>
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao8.py">Questão 8</a>
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao9.py">Questão 9</a>
-- [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao10.py">Questão 10</a>
+- [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao10.py">Questão 10</a>
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao11.py">Questão 11</a>
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao12.py">Questão 12</a>
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao13.py">Questão 13</a>
