@@ -4,8 +4,7 @@ Resolução das listas disponíveis em: https://sites.google.com/site/ap1uefs201
 
 <h2> Listas Unidade II </h2>
 
-<h3>Lista 4 </h3>
-Link: https://github.com/antonyaraujo/Listas/blob/master/Lista04.pdf
+<h3>Lista 4 </h3> Link: https://github.com/antonyaraujo/Listas/blob/master/Lista04.pdf
 
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao1.py">Questão 1</a>
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao2.py">Questão 2</a>
@@ -26,8 +25,7 @@ Link: https://github.com/antonyaraujo/Listas/blob/master/Lista04.pdf
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao17.py">Questão 17</a>
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista04/Questao18.py">Questão 18</a>
 
-<h3>Lista 5 </h3>
-Link: https://github.com/antonyaraujo/Listas/blob/master/Lista05.pdf
+<h3>Lista 5 </h3> Link: https://github.com/antonyaraujo/Listas/blob/master/Lista05.pdf
 
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao1.py">Questão 1</a>
 - [X] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao2.py">Questão 2</a>
@@ -50,8 +48,7 @@ Link: https://github.com/antonyaraujo/Listas/blob/master/Lista05.pdf
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao19.py">Questão 19</a>
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista05/Questao20.py">Questão 20</a>
 
-<h3>Lista 6 </h3>
-Link: https://github.com/antonyaraujo/Listas/blob/master/Lista04.pdf
+<h3>Lista 6 </h3> Link: https://github.com/antonyaraujo/Listas/blob/master/Lista04.pdf
 
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao1.py">Questão 1</a>
 - [ ] - <a href="https://github.com/antonyaraujo/Listas/blob/master/Lista06/Questao2.py">Questão 2</a>
