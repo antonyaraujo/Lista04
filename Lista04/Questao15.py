@@ -18,7 +18,3 @@ while numero < 2:
     numero = int(input("Informe um valor N maior ou igual a 2: "))
 
 print(maiorPrimo(numero))
-
-
-
-
