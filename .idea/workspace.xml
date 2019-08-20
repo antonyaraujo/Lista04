@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="663ce50e-8664-46e0-a0d8-ceff61c935f7" name="Default Changelist" comment="Correção de quebra de linha">
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista05/Questao20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista06/Questao1.py" afterDir="false" />
+    <list default="true" id="663ce50e-8664-46e0-a0d8-ceff61c935f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista04/Questao15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista04/Questao15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista05/Questao16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista05/Questao16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista05/Questao17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista05/Questao17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista05/Questao20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista05/Questao20.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,49 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Questao18">
-    <configuration name="Questao14" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Lista04" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista05/Questao14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Questao15" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Lista04" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista05/Questao15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Questao20">
     <configuration name="Questao16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lista04" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,13 +121,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Questao20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lista04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista05/Questao20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Questao8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lista04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista05/Questao8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Questao18" />
+        <item itemvalue="Python.Questao20" />
         <item itemvalue="Python.Questao17" />
         <item itemvalue="Python.Questao16" />
-        <item itemvalue="Python.Questao15" />
-        <item itemvalue="Python.Questao14" />
+        <item itemvalue="Python.Questao8" />
+        <item itemvalue="Python.Questao18" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566170708154</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Acrescimo e resolução de questões da Lista 05 e atualização do README">
+      <created>1566199689038</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1566199689038</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,6 +273,7 @@
     <MESSAGE value="Acrescimo das questões 2, 3, 4 e 5" />
     <MESSAGE value="Correção da questão 5 e arquivo relacionado; adição das questões de 6 até 9" />
     <MESSAGE value="Questão 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Questão 10" />
+    <MESSAGE value="Acrescimo e resolução de questões da Lista 05 e atualização do README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acrescimo e resolução de questões da Lista 05 e atualização do README" />
   </component>
 </project>

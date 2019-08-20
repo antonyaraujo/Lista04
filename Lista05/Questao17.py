@@ -8,37 +8,38 @@ imprimir uma mensagem informando se a estrutura de dados bidimensional é ou nã
 mágico.'''
 
 def quadradoMagico(A):
-    linhas, diagonais, colunas = [], [], [0, 0, 0]
+    principal = 0
     for i in range(len(A)):
-        somaLinha, somaDiagonal = 0, 0
-        for j in range(len(A[i])):
-            somaLinha += A[i][j]
-            if i == j:
-                somaDiagonal += A[i][j]
-            for k in range(3):
-                if j == k:
-                    colunas[j] += A[i][j]
-        linhas.append(somaLinha)
-        diagonais.append(somaDiagonal)
+        principal += A[i][i]
 
-    print((diagonais))
-    print((linhas))
-    print((colunas))
+    secundario = 0
+    for i in range(len(A)):
+        secundario += A[i][2-i]
 
-    for l in range(3):
-        if (diagonais[3-l] != diagonais[l]) or (linhas[3-l] != linhas[l]) or (colunas[3-l] != colunas[l]):
+    if secundario != principal:
+        return 0
+
+    for i in range(len(A)):
+        linha = A[i].sum()
+        if linha != secundario:
             return 0
+
+    for i in range(len(A)):
+        coluna = 0
+        for j in range(len(A[i])):
+            coluna += A[i][j]
+            break
+
     return 1
 
-
-A = []
-for i in range(3):
+A = [[8,0,7],[4,5,6],[3,10,2]]
+'''for i in range(3):
     lista = []
     for j in range(3):
         valor = -1
         while valor < 0:
             valor = int(input("Informe o valor da posição %ix%i: " %(i+1, j+1)))
         lista.append(valor)
-    A.append(lista)
+    A.append(lista)'''
 
 print(quadradoMagico(A))
