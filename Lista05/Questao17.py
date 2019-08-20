@@ -20,7 +20,9 @@ def quadradoMagico(A):
         return 0
 
     for i in range(len(A)):
-        linha = A[i].sum()
+        linha = 0
+        for j in range(len(A[i])):
+            linha += A[i][j]
         if linha != secundario:
             return 0
 
