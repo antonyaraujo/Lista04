@@ -7,14 +7,20 @@ Em seguida, passe esta matriz para uma função que deve calcular a quantidade
 que o dono da loja precisa comprar de cada produto no próximo dia. Implemente duas soluções, uma
 só com listas e outra, também com dicionários.'''
 
-
+def quantidadeCompra(matriz):
+    for i in range(1):
+        for j in range(2):
+            print("Planta: ", matriz[(i, j)][1])
+            print("Quantidade compra dia seguinte: ", matriz[(i, j)][2] - matriz[(i, j)][3])
 
 tiposPlantas = {}
 for i in range(1):
-    for j in range(5):
+    for j in range(2):
         codigo = int(input("Insira o código da planta: "))
+        nome = input("Insira o nome da planta: ")
         estoqueIdeal = int(input("Insira a quantidade de estoque ideal: "))
         quantidadeEstoque = int(input("Insira a quantidade em estoque: "))
-        tiposPlantas[(i, j)] = [codigo, estoqueIdeal, quantidadeEstoque]
+        tiposPlantas[(i, j)] = [codigo, nome, estoqueIdeal, quantidadeEstoque]
 
 print(tiposPlantas)
+quantidadeCompra(tiposPlantas)
